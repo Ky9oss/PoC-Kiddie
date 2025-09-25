@@ -9,7 +9,7 @@ This project is designed for continuous integration of PoCs (Proofs of Concept) 
 
 # Disclaimer
 
-> [!CUATION]
+> [!WARNING]
 > This tool is intended solely for legally authorized enterprise security activities. If you wish to test its functionality, please set up your own lab environment.
 > When using this tool, you must ensure that your actions comply with local laws and regulations and that you have obtained sufficient authorization. Do not target unauthorized systems.
 > You are solely responsible for any illegal actions carried out using this tool. We assume no legal or related liability for misuse.
