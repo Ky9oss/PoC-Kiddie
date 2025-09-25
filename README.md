@@ -1,20 +1,17 @@
 # PoC Kiddle
-本项目仅用于持续集成由我所验证的PoC，帮助我在尚未深入漏洞原理的情况下快速**复现漏洞**。
+This project is designed for continuous integration of PoCs (Proofs of Concept) verified by me, helping to quickly reproduce vulnerabilities without requiring deep understanding of their underlying principles.
 
 # Features
 
-- 快速复现：所有PoC都由我本人在特定环境下测试成功，并提供完整测试案例
-- 统一风格：所有PoC由我改写为统一的风格，包括完善的错误处理、清晰的脚本文档、统一的输出格式
-- 高危漏洞：仅集成有价值的高危漏洞，用于红队攻防任务而非安全测试任务
+- Rapid Reproduction: All PoCs have been personally tested by me in specific environments, with complete test cases provided.
+- Unified Style: All PoCs are rewritten in a consistent style, including robust error handling, clear documentation, and standardized output formats.
+- High-Risk Vulnerabilities: Only valuable high-risk vulnerabilities are included, intended for red team exercises rather than penetration testing.
 
-# 免责声明
+# Disclaimer
 
-> [!WARNING]
-> 本工具仅面向**合法授权**的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。
-> 
-> 在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。**请勿对非授权目标进行钓鱼。**
-> 
-> 如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任。
-> 
-> 在安装并使用本工具前，请您**务必审慎阅读、充分理解各条款内容**，限制、免责条款或者其他涉及您重大权益的条款可能会以加粗、加下划线等形式提示您重点注意。 除非您已充分阅读、完全理解并接受本协议所有条款，否则，请您不要安装并使用本工具。您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。
+> [!CUATION]
+> This tool is intended solely for legally authorized enterprise security activities. If you wish to test its functionality, please set up your own lab environment.
+> When using this tool, you must ensure that your actions comply with local laws and regulations and that you have obtained sufficient authorization. Do not target unauthorized systems.
+> You are solely responsible for any illegal actions carried out using this tool. We assume no legal or related liability for misuse.
+> Before installing or using this tool, please read and fully understand all terms carefully. Clauses related to limitations, disclaimers, or other significant rights may be highlighted in bold or underlined for emphasis. Unless you have fully read, understood, and accepted all terms of this agreement, do not install or use this tool. Your use of this tool, or any other explicit or implicit acceptance, indicates that you have read and agreed to be bound by these terms.
 
